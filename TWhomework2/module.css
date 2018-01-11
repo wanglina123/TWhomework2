@@ -3,11 +3,11 @@
 	border-color:#F39;
 	border-width:5px;
 	font-size:16px;
-	width:1500px;
+	width:1000px;
 	margin:0 auto;
 }
 h1,#part1,#part2,#part3{
-	width:1200px;
+	width:900px;
 }
 #part1,#part2{
 	border-style:solid;
@@ -38,7 +38,7 @@ ol{
 }
 #part1 td{
    padding:15px 15px 15px 15px;
-   width:400px;	
+   width:300px;	
 }
 #part1 input{
 	border-radius:3px;
